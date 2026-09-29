@@ -1,7 +1,8 @@
 <div align="center">
 
-# ⚡ Hi there, I'm Ayush Raj Sinha 👋
-### **AI & Machine Learning Engineer | Data Science & Full-Stack Developer**
+# 📊 Hi there, I'm Ayush Raj Sinha 👋
+### **Data Analyst | Business Intelligence & Applied Analytics**
+#### *Translating Complex Data into Actionable Business Intelligence & Interactive Dashboards*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Raj_Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-raj-sinha-00b582288)
 [![Email](https://img.shields.io/badge/Email-basically.ayush99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basically.ayush99@gmail.com)
@@ -10,17 +11,16 @@
 <br/>
 
 ```python
-class Developer:
+class DataAnalyst:
     def __init__(self):
         self.name = "Ayush Raj Sinha"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.education = "B.Tech in CS (AI & Data Science), CGPA: 8.15"
-        self.experience = ["Tata Motors (SDE Intern)", "IBM (GenAI Intern)"]
-        self.hackathons = ["Smart India Hackathon (Ranked 11/86)", "IBM State Hackathon Finalist"]
-        self.passion = ["Predictive Analytics", "Generative AI", "Scalable Systems"]
+        self.role = "Data Analyst & Business Intelligence Specialist"
+        self.core_tools = ["SQL", "Python (Pandas, NumPy)", "IBM Cognos", "Plotly", "Streamlit"]
+        self.experience = ["Tata Motors (Data & Monitoring Intern)", "IBM (GenAI & Data Intern)"]
+        self.strengths = ["Exploratory Data Analysis (EDA)", "KPI Dashboards", "Statistical Modeling", "Root-Cause Analysis"]
 
-    def build_solutions(self):
-        return "Transforming complex data into actionable, high-impact intelligent products."
+    def deliver_value(self):
+        return "Uncovering patterns, diagnosing bottlenecks, and driving strategic business decisions through data."
 ```
 
 </div>
@@ -30,67 +30,63 @@ class Developer:
 ## 🌟 About Me
 
 - 🎓 **Education**: Final-year **B.Tech in Computer Science (Data Science & AI)** with an **8.15 CGPA**.
-- 💼 **Industrial Experience**:
-  - **Software Development Intern @ [Tata Motors](https://www.tatamotors.com/)**: Engineered an enterprise safety monitoring system across **850+ CCTV cameras** with interactive plant-layout analytics and REST APIs.
-  - **Generative AI Intern @ [IBM](https://www.ibm.com/)**: Worked on LLM architecture, enterprise AI pipelines, and earned the *IBM Watson Studio Data Visualization* certification.
-- 🏆 **Competitions & Achievements**:
-  - **Smart India Hackathon (SIH)**: Ranked **11th out of 86 teams** for *JanDrishti*, an AI-powered civic platform.
-  - **IBM State-Level Hackathon Finalist**: Recognized for algorithmic depth and solution scalability.
-  - **NCC 'B' & 'C' Certificate Cadet**: Trained in leadership, discipline, and execution under pressure.
+- 💼 **Analytics Experience**:
+  - **Data & Monitoring Intern @ [Tata Motors](https://www.tatamotors.com/)**: Built an internal telemetry and safety violation monitoring dashboard tracking telemetry across **850+ CCTV camera feeds**, improving incident validation speed and visual reporting for plant operations.
+  - **Generative AI & Data Intern @ [IBM](https://www.ibm.com/)**: Certified in *IBM Watson Studio — Clean, Refine and Visualize Data*, building data preparation workflows and multi-metric visual briefs.
+- 🏆 **Hackathons & Achievements**:
+  - **Smart India Hackathon (SIH)**: Ranked **11th out of 86 teams** for data-driven civic intelligence and geospatial issue analytics.
+  - **IBM State-Level Hackathon Finalist**: Recognized for analytical depth and solution viability.
+  - **NCC 'B' & 'C' Certificate Holder**: Disciplined, analytical, and structured problem-solver.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Data Analytics Toolkit
 
 <div align="center">
 
-### 💻 Languages & Query
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📊 Querying & Data Manipulation
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🤖 AI, Machine Learning & Data Science
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web Frameworks & Databases
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🧰 Developer Tools & Platforms
+### 📈 BI, Visualization & Dashboards
+![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Watson Studio](https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔬 Applied Modeling & Statistics
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IBM Watson Studio](https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Featured Analytics & BI Projects
 
-| Project | Tech Stack | Highlights |
+| Project | Analytics Stack | Business Problem & Analytical Impact |
 | :--- | :--- | :--- |
-| **[⚡ ECO DASHBOARD](https://github.com/Ayushhcodeshere/ECO-DASHBOARD)** | `Streamlit` `Scikit-Learn` `Plotly` `Pandas` | **AI Energy Optimizer**: Interactive consumption telemetry, ML power forecasting, scenario simulator & carbon targets. |
-| **[🛡️ JanDrishti](https://github.com/Ayushhcodeshere/JanDrishti)** | `Python` `MongoDB` `Flask` `Computer Vision` | **SIH Finalist (Ranked 11/86)**: Civic complaint intelligence system with automated severity classification & geospatial mapping. |
-| **[🚆 Railway Delay EDA & Prediction](https://github.com/Ayushhcodeshere/Railway-Delay--EDA)** | `Python` `SQL` `IBM Cognos` `Pandas` | Large-scale transit delay analysis, bottleneck identification, and predictive delay classification model. |
-| **[💡 Saarthi](https://github.com/Ayushhcodeshere)** | `Python` `Machine Learning` `Flask` | Age-adaptive content recommendation engine matching learner profiles to tailored education paths. |
-| **[🌦️ Weather Prediction](https://github.com/Ayushhcodeshere/Weather-Prediction)** | `Python` `Scikit-Learn` `Jupyter` | Machine learning predictive forecasting on meteorological time-series patterns. |
+| **[🚆 Railway Transit Delay Analytics & EDA](https://github.com/Ayushhcodeshere/Railway-Delay--EDA)** | `Python` `SQL` `IBM Cognos` `Seaborn` | **Transit Bottleneck Analysis**: Cleaned large transit datasets, diagnosed 5 recurring delay causes across seasonal & geographic routes, built a 6-report IBM Cognos visual dashboard, and validated predictive classification. |
+| **[⚡ ECO DASHBOARD (Energy Consumption Analytics)](https://github.com/Ayushhcodeshere/ECO-DASHBOARD)** | `Streamlit` `Plotly` `Pandas` `Scikit-Learn` | **Household Telemetry & Forecasting**: Interactive analytics dashboard monitoring sub-metered electricity usage, historical peak-load trends, and scenario simulation for energy reduction. |
+| **[🛡️ JanDrishti (Civic Incident Intelligence)](https://github.com/Ayushhcodeshere/JanDrishti)** | `Python` `MongoDB` `Geospatial Indexing` | **SIH Finalist (Ranked 11/86)**: Unstructured complaint data ingestion, automated severity categorization, and geospatial clustering for municipal issue prioritization. |
+| **[🌦️ Weather & Climate Time-Series Analytics](https://github.com/Ayushhcodeshere/Weather-Prediction)** | `Python` `Pandas` `Jupyter` `Scikit-Learn` | Time-series data cleaning, statistical feature correlation, and exploratory forecasting on multi-variable meteorological patterns. |
+| **[🏋️ FITGUIDE (Activity & Health Analytics)](https://github.com/Ayushhcodeshere/FITGUIDE)** | `Python` `Data Modeling` `Pandas` | User biometric and workout trend tracking with modular data structures and progress KPI monitoring. |
 
 ---
 
 
+
 <br/>
+
 
 
 </div>
@@ -107,5 +103,5 @@ class Developer:
 ---
 
 <div align="center">
-⭐ <i>"Code with purpose. Engineer with precision."</i> ⭐
+⭐ <i>"Turning raw data into clear, decisive business actions."</i> ⭐
 </div>
